@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['c:/Users/ss0117/RdC-OnAir-Viewer/OnAirViewer.py'],
+    ['OnAirViewer.py'],
     pathex=[],
     binaries=[],
     datas=[],

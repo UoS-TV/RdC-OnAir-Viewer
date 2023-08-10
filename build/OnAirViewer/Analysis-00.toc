@@ -1,5 +1,5 @@
-(['c:\\Users\\ss0117\\RdC-OnAir-Viewer\\OnAirViewer.py'],
- ['c:\\Users\\ss0117\\RdC-OnAir-Viewer'],
+(['C:\\Users\\ss0117\\RdC-OnAir-Viewer\\OnAirViewer.py'],
+ ['C:\\Users\\ss0117\\RdC-OnAir-Viewer'],
  ['codecs'],
  ['C:\\Users\\ss0117\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\numpy\\_pyinstaller',
   'C:\\Users\\ss0117\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
@@ -384,10 +384,6 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1264.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1264.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
-   'PYMODULE'),
   ('getpass',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1264.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
@@ -427,6 +423,10 @@
   ('http.client',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1264.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1264.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
    'PYMODULE'),
   ('subprocess',
    'C:\\Program '
@@ -487,6 +487,6 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\ss0117\\build\\OnAirViewer\\base_library.zip',
+   'C:\\Users\\ss0117\\RdC-OnAir-Viewer\\build\\OnAirViewer\\base_library.zip',
    'DATA')],
  [])
